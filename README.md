@@ -57,9 +57,7 @@ Use subqueries for conditional filtering, and perform updates/deletes based on l
 - LinkedIn: https://www.linkedin.com/in/ediomo-etesin
 
 ## License:
-- This SQL script is intended for educational and 
-- assessment purposes only. Not for production use 
-- without verification of data accuracy and integrity.
+- This SQL script is intended for educational and assessment purposes only. Not for production use without verification of data accuracy and integrity.
 - All queries are based on the adashi_staging database 
 - schema and are safe to use in test environments.
 
