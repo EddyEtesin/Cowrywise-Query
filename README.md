@@ -51,15 +51,6 @@ Use subqueries for conditional filtering, and perform updates/deletes based on l
 
 ---
 
-## Example Highlight
-
-```sql
--- Find plans with no savings transactions
-SELECT p.*
-FROM adashi_staging.plans_plan p
-LEFT JOIN adashi_staging.savings_savingsaccount s ON p.id = s.plan_id
-WHERE s.id IS NULL;
-
 /*
 ===========================================================
   MySQL Database Assessment: Adashi Staging Data
@@ -80,4 +71,14 @@ WHERE s.id IS NULL;
 
 ===========================================================
 */
+
+## Example Highlight
+
+```sql
+-- Find plans with no savings transactions
+SELECT p.*
+FROM adashi_staging.plans_plan p
+LEFT JOIN adashi_staging.savings_savingsaccount s ON p.id = s.plan_id
+WHERE s.id IS NULL;
+
 
