@@ -50,26 +50,19 @@ Use subqueries for conditional filtering, and perform updates/deletes based on l
 - Update and Delete queries should be executed with caution in a live environment.
 
 ---
+## Author
+- Name: Ediomo Usoro Etesin
+- Email: ediomoetesin40@gmail.com
+- GitHub: https://github.com/Edyetesin
+- LinkedIn: https://www.linkedin.com/in/ediomo-etesin
 
-/*
-===========================================================
-  MySQL Database Assessment: Adashi Staging Data
-===========================================================
+## License:
+- This SQL script is intended for educational and 
+- assessment purposes only. Not for production use 
+- without verification of data accuracy and integrity.
+- All queries are based on the adashi_staging database 
+- schema and are safe to use in test environments.
 
-  📌 Author:
-    Name: Ediomo Usoro Etesin
-    Email: ediomoetesin40@gmail.com
-    GitHub: https://github.com/Edyetesin
-    LinkedIn: https://www.linkedin.com/in/ediomo-etesin
-
-  📜 License:
-    This SQL script is intended for educational and 
-    assessment purposes only. Not for production use 
-    without verification of data accuracy and integrity.
-    All queries are based on the adashi_staging database 
-    schema and are safe to use in test environments.
-
-===========================================================
 */
 
 ## Example Highlight
