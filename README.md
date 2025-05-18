@@ -53,7 +53,7 @@ Use subqueries for conditional filtering, and perform updates/deletes based on l
 ## Author
 - Name: Ediomo Usoro Etesin
 - Email: ediomoetesin40@gmail.com
-- GitHub: https://github.com/Edyetesin
+- GitHub: https://github.com/Eddyetesin 
 - LinkedIn: https://www.linkedin.com/in/ediomo-etesin
 
 ## License:
